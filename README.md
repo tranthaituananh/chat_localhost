@@ -1,4 +1,4 @@
-# Chat_Localhost
+# Chat local host
 Realtime chat app with rooms 
 
 ## Usage
