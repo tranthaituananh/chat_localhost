@@ -1,5 +1,5 @@
 # Chat local host
-Realtime chat app with rooms - [DEMO](https://chat-localhost-iide-tranthaituananh.vercel.app/)
+Realtime chat app with rooms. 
 
 ## Usage
 
